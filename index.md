@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching]([https://guides.github.com/activities/hello-world/branching.png](https://static.requarks.io/logo/wikijs-butterfly.svg)
 
 
 ### Definition lists can be used with HTML syntax.
