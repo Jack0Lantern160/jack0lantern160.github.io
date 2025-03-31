@@ -12,7 +12,7 @@ My background in aviation customer service has honed my communication skills, al
 
 ## Projects
 
-Below is a showcase of my past and current projects, highlighting my hands-on experience in cybersecurity.
+Below is a showcase of my past and current projects.
 
 *  SIEM – Wazuh
 * Self-hosted Wiki – Wiki.js
