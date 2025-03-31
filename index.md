@@ -14,7 +14,10 @@ My background in aviation customer service has honed my communication skills, al
 
 Below is a showcase of my past and current projects, highlighting my hands-on experience in cybersecurity.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*  SIEM – Wazuh
+* Self-hosted Wiki – Wiki.js
+* Self-hosted DNS – AdGuard
+* Home Network Setup – VLAN configurations
+* Home Automation – Home Assistant
+* Interactive Dashboard – Homarr for centralized organization
 
